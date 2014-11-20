@@ -1,3 +1,13 @@
-node_modules
+# Node rules:
 .grunt
-/_book/
+
+## Dependency directory
+node_modules
+
+# Book build output
+_book
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
